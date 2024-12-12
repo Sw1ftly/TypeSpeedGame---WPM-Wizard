@@ -16,7 +16,7 @@ This is a typing speed game designed to test and improve your Words Per Minute (
 - **HTML** - Used for the basic structure and layout of the page.
 - **CSS** - Custom styling and animations for the game interface.
 - **JavaScript** - Core programming language to handle game logic, event handling, and DOM manipulation.
-- **Web Audio API** - For adding typing sounds during the game.
+
 
 ## Installation
 
