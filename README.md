@@ -2,6 +2,11 @@
 # WPM Typing Speed Game
 
 This is a typing speed game designed to test and improve your Words Per Minute (WPM) typing speed. The game provides a random set of words for users to type, tracks typing accuracy, and displays the WPM score at the end of the game.
+## Preview
+
+Here’s a screenshot of the game in action:
+
+![Game Screenshot](WPMWizard/wpmpreview.PNG)
 
 ## Features
 
